@@ -1,8 +1,8 @@
 # Predicting parameters for the Quantum Approximate Optimization Algorithm for MAX-CUT from the infinite-size limit
 
-This repository contains code to re-generate the figures in the paper ***
+This repository contains code to re-generate the figures in the paper ***.
 
-The data is not included in the repository. It must be downloaded from: *** and unpacked at the root of this repository.
+The data is not included in the repository. It must be downloaded from [this link](https://zenodo.org/record/5569075/files/data.tar.xz) and unpacked at the root of this repository.
 
 The code in the following 3 Jupyter notebooks at the root of the repository:
 - [infinite_size_parameters.ipnyb](./infinite_size_parameters.ipynb): Generate the plots of optimal angles for MAX-CUT QAOA on Erdos-Renyi/Chung-Lu graphs.
