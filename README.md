@@ -1,6 +1,6 @@
 # Predicting parameters for the Quantum Approximate Optimization Algorithm for MAX-CUT from the infinite-size limit
 
-This repository contains code to re-generate the figures in the paper ***.
+This repository contains code to re-generate the figures in the paper "Predicting parameters for the Quantum Approximate Optimization Algorithm for MAX-CUT from the infinite-size limit" by Sami Boulebnane and Ashley Montanaro.
 
 The data is not included in the repository. It must be downloaded from [this link](https://zenodo.org/record/5569075/files/data.tar.xz) and unpacked at the root of this repository.
 
